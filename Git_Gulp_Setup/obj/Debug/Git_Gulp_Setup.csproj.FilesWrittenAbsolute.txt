@@ -1,0 +1,12 @@
+/Users/Rick/Projects/Git_Gulp_Setup/Git_Gulp_Setup/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/Rick/Projects/Git_Gulp_Setup/Git_Gulp_Setup/bin/Git_Gulp_Setup.dll.mdb
+/Users/Rick/Projects/Git_Gulp_Setup/Git_Gulp_Setup/bin/Git_Gulp_Setup.dll
+/Users/Rick/Projects/Git_Gulp_Setup/Git_Gulp_Setup/obj/Debug/Git_Gulp_Setup.dll
+/Users/Rick/Projects/Git_Gulp_Setup/Git_Gulp_Setup/obj/Debug/Git_Gulp_Setup.dll.mdb
+/Users/Rick/Projects/Git_Gulp_Setup/Git_Gulp_Setup/bin/System.Web.Razor.dll
+/Users/Rick/Projects/Git_Gulp_Setup/Git_Gulp_Setup/bin/Microsoft.Web.Infrastructure.dll
+/Users/Rick/Projects/Git_Gulp_Setup/Git_Gulp_Setup/bin/System.Web.Helpers.dll
+/Users/Rick/Projects/Git_Gulp_Setup/Git_Gulp_Setup/bin/System.Web.WebPages.Deployment.dll
+/Users/Rick/Projects/Git_Gulp_Setup/Git_Gulp_Setup/bin/System.Web.WebPages.dll
+/Users/Rick/Projects/Git_Gulp_Setup/Git_Gulp_Setup/bin/System.Web.WebPages.Razor.dll
+/Users/Rick/Projects/Git_Gulp_Setup/Git_Gulp_Setup/bin/System.Web.Mvc.dll
