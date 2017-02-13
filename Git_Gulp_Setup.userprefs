@@ -1,13 +1,14 @@
 ﻿<Properties StartupConfiguration="{F32FE9DB-02BB-4F95-A5EC-0A02F63C6CB8}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Git_Gulp_Setup/Views/Shared/_Layout.cshtml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="package.json">
     <Files>
       <File FileName="Git_Gulp_Setup/Controllers/HomeController.cs" Line="1" Column="1" />
       <File FileName="Git_Gulp_Setup/Views/Home/Index.cshtml" Line="3" Column="578" />
-      <File FileName="Git_Gulp_Setup/Content/styles/header.css" Line="1" Column="1" />
+      <File FileName="Git_Gulp_Setup/Content/styles/header.css" Line="6" Column="2" />
       <File FileName="Git_Gulp_Setup/Content/styles/footer.css" Line="1" Column="1" />
-      <File FileName="Git_Gulp_Setup/Content/styles/final.css" Line="1" Column="1" />
+      <File FileName="Git_Gulp_Setup/Content/styles/final.css" Line="3" Column="23" />
       <File FileName="Git_Gulp_Setup/Content/styles/body.css" Line="11" Column="2" />
-      <File FileName="Git_Gulp_Setup/Views/Shared/_Layout.cshtml" Line="7" Column="11" />
+      <File FileName="Git_Gulp_Setup/Views/Shared/_Layout.cshtml" Line="5" Column="59" />
+      <File FileName="package.json" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
