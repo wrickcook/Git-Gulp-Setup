@@ -1,0 +1,24 @@
+.header
+{
+color: green;
+font-weight: bold;
+margin-bottom: 23px;
+}
+h1
+{
+color: orange;
+}
+h4
+{
+color: blue;
+}
+p
+{
+color: pink;
+}
+.footer
+{
+color: red;
+font-weight: bold;
+margin-top: 23px;
+}
